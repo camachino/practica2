@@ -11,7 +11,7 @@ Incluye:
 -titulos<br>
 -3 enlaces internos<br>
 -1 enlaces externo a Youtube<br>
-git@github.com:camachino/practica2.git
+github.com:camachino/practica2.git
 
 
 
