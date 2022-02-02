@@ -5,6 +5,7 @@ sobre el índice ibex35.
 Incluye:
 -formularios <br>
 -titulos<br>
+-varios tamaños de letra <br>
 -parrafos<br>
 -botones<br>
 -redirecciones<br>
