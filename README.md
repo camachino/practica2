@@ -3,12 +3,12 @@ Se ha implementado una página web en Github sites,
 sobre el índice ibex35.
 
 Incluye:
--formularios
--titulos
--parrafos
--botones
--redirecciones
--titulos
--enlaces internos
--enlaces externos
+-formularios <br>
+-titulos<br>
+-parrafos<br>
+-botones<br>
+-redirecciones<br>
+-titulos<br>
+-enlaces internos<br>
+-enlaces externos<br>
 
