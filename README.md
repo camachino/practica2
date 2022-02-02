@@ -9,6 +9,8 @@ Incluye:
 -botones<br>
 -redirecciones<br>
 -titulos<br>
--enlaces internos<br>
--enlaces externos<br>
+-3 enlaces internos<br>
+-1 enlaces externo a Youtube<br>
+
+
 
