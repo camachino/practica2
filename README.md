@@ -5,10 +5,13 @@ sobre el índice ibex35.
 Incluye:
 -formularios <br>
 -titulos<br>
+-varios tamaños de letra <br>
 -parrafos<br>
 -botones<br>
 -redirecciones<br>
 -titulos<br>
--enlaces internos<br>
--enlaces externos<br>
+-3 enlaces internos<br>
+-1 enlaces externo a Youtube<br>
+https://camachino.github.io/practica2/
+
 
