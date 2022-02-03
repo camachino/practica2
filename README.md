@@ -4,7 +4,7 @@ sobre REPSOL.
 <br>
 <img width="200px" height="200px" src="Repsol_Logo.jpg" alt="logo repsol">
 <br>
-Incluye:
+Incluye: <br>
 -formularios <br>
 -titulos<br>
 -varios tamaños de letra <br>
