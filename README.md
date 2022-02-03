@@ -7,6 +7,8 @@ sobre REPSOL.
 Incluye: <br>
 -formularios <br>
 -titulos<br>
+-tipificados <br>
+-media: como imagenes y videos <br>
 -varios tamaños de letra <br>
 -parrafos<br>
 -botones con funcionalidad y redireccion<br>
