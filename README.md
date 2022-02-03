@@ -1,7 +1,7 @@
 # practica2
 Se ha implementado una página web en Github sites,
 sobre REPSOL.
-<img height="200px" width="200px"src="Repsol_Logo.jpg">
+<img width="500px" height="500px" src="Repsol_Logo.jpg" alt="logo repsol">
 
 Incluye:
 -formularios <br>
