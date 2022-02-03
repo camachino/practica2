@@ -1,6 +1,6 @@
 # practica2
 Se ha implementado una página web en Github sites,
-sobre REPSOL.
+sobre REPSOL. En HTML puro, subido desde mi IntelIJ con los comandos de Git
 <br>
 <img width="200px" height="200px" src="Repsol_Logo.jpg" alt="logo repsol">
 <br>
