@@ -1,16 +1,16 @@
 # practica2
 Se ha implementado una página web en Github sites,
-sobre el índice ibex35.
+sobre REPSOL.
 
 Incluye:
 -formularios <br>
 -titulos<br>
 -varios tamaños de letra <br>
 -parrafos<br>
--botones<br>
+-botones con funcionalidad y redireccion<br>
 -redirecciones<br>
 -titulos<br>
--3 enlaces internos<br>
+-4 enlaces internos<br>
 -1 enlaces externo a Youtube<br>
 https://camachino.github.io/practica2/
 
