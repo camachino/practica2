@@ -14,7 +14,7 @@ Incluye: <br>
 -botones con funcionalidad y redireccion<br>
 -redirecciones<br>
 -titulos<br>
--4 enlaces internos<br>
+-4 archivos HTML con enlaces internos entre ellos<br>
 -1 enlaces externo a Youtube<br>
 
 Puede ver la web lanzada en github pages
